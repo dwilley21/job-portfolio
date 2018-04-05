@@ -1,0 +1,32 @@
+img{
+  height: 50%;
+  width: 100%;
+  position: relative;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+}
+h2 span {
+  color: white;
+  letter-spacing: -1px;
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-weight: bold;
+  font-size: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
+  box-shadow: 10px 5px white;
+}
+div{
+  padding-left: 0px;
+  padding-top: 0px;
+}
+/*.jobTitle{*/
+/*box-shadow: 10px 5px 5px white;*/
+/*}*/
+/*.name{*/
+/*box-shadow: 10px 5px 5px white;*/
+/*}*/
